@@ -1,1 +1,17 @@
+# 🎬 Movie Recommendation System
+
+This is a **Movie Recommendation System** built using Python. The system takes a movie title as input and suggests similar movies based on content similarity.
+
+## 📌 Features
+- 🔍 **Search for a movie** by title.
+- 🎯 **Finds the closest match** if the title is misspelled.
+- 🤖 **Generates movie recommendations** based on similarity.
+- 🎭 **Uses NLP techniques** to compare movie descriptions.
+- 📊 **Built with Pandas, Difflib, and iPyWidgets**.
+
+## 🛠️ Installation
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/Mon-ster-Thelo/Movie-Recommendation-system.git
+cd Movie-Recommendation-system
 
